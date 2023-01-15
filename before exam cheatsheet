@@ -37,6 +37,9 @@ def myfunct(n):
 q = myfunct(3)
 print(q(11)) # call using q but in original function call with base a parameter. 
 
+d = [[1,2],[3,4,6],[2,-1,2], [22,33,1],[1,1,1,1,1,1]] # List[List[int]]]
+print(len(d[-1])) #7
+print(len(d[-2])) # 3
 
 
 ````
