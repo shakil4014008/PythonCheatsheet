@@ -1,0 +1,19 @@
+````py
+# a = [3,4,9,1,-8]
+# print(sorted(a))
+# print(sorted(a, reverse = True )) 
+# # do sort then call separately
+# a.sort()
+# print(a)
+# a.sort(reverse = True)
+# print(a)
+# a  = sorted(a, key=lambda x: x, reverse = True)
+# a  = sorted(a, key=lambda x: x)
+# print(a)
+
+# lst = [('candy','30','500'), ('apple','10','200'), ('baby','20','300')]
+# lst.sort(key=lambda x: x[2])
+# print(lst)
+# p = '  da'
+# print(p.strip()) # Trim function 
+````
