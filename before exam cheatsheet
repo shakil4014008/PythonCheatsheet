@@ -1,4 +1,7 @@
 ````py
+ 
+````
+````py
 # a = [3,4,9,1,-8]
 # print(sorted(a))
 # print(sorted(a, reverse = True )) 
@@ -15,5 +18,6 @@
 # lst.sort(key=lambda x: x[2])
 # print(lst)
 # p = '  da'
-# print(p.strip()) # Trim function 
+# print(p.strip()) # Trim function
+
 ````
