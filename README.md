@@ -12,6 +12,8 @@ https://www.simplilearn.com/python-cheat-sheet-article
 https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf?US
 https://blog.finxter.com/wp-content/uploads/2020/07/Finxter_WorldsMostDensePythonCheatSheet.pdf
 
+
+https://leetcode.com/problems/binary-tree-inorder-traversal/solutions/283746/all-dfs-traversals-preorder-inorder-postorder-in-python-in-1-line/
 ````
 
 short notes: 
